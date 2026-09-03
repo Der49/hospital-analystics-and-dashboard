@@ -2,7 +2,7 @@
 
 A full data analyst portfolio project from raw CSV to a deployed, filterable Streamlit app dashboard analyzing 10,500 hospital stays from 2023-2025 to uncover operational, financial, and patient-quality insights.
 
-**Live Dashboard:** 
+**Access Live Dashboard:** [hospital-analytics-and-dashboard-darrel-christofer.streamlit.app](https://hospital-analytics-and-dashboard-darrel-christofer.streamlit.app)
 
 **Full Analysis Notebook:** [`hospital_analysis.ipynb`](https://colab.research.google.com/drive/1rG76eUsStV77eWMbE9zc09tYV9IZg55Q?usp=sharing)
 
@@ -10,7 +10,7 @@ A full data analyst portfolio project from raw CSV to a deployed, filterable Str
 
 ## 📌 Business Case
 
-This project examines why **the hospital's 30-day readmission rate** (19.1%)—the percentage of patients who return to the hospital within 30 days of being discharged—**is above the 15% benchmark**. It identifies the main factors behind readmissions and presents the findings in an interactive dashboard to support better decision-making.
+This project examines why **the hospital's 30-day readmission rate** (19.1%)—the percentage of patients who return to the hospital within 30 days of being discharged **is above the 15% benchmark**. It identifies the main factors behind readmissions and presents the findings in an interactive dashboard to support better decision-making.
 
 ---
 
@@ -43,6 +43,21 @@ The app is organized into 5 tabs, all driven by a shared set of filters
    readmission relationship, and an Emergency department comparison
 5. **Patient Profile** — age, BMI, smoking, gender, and blood type distributions
    for demographic context
+
+---
+
+## 🖼️ Small Preview
+
+
+<img width="1637" height="837" alt="image" src="https://github.com/user-attachments/assets/206926b2-9f2e-485a-99e6-ab0bec1b96be" />
+
+(from overview page)
+
+
+<img width="1732" height="758" alt="image" src="https://github.com/user-attachments/assets/a9f6887c-8656-480a-854e-c4826ccf6ad8" />
+
+
+(from operations page)
 
 ---
 
